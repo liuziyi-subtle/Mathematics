@@ -1,2 +1,2 @@
 # mathematics
-Everythin
+Everything
